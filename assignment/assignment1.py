@@ -1,7 +1,7 @@
 """
 Name: Zwe Nada
 Date started: 20/3/2024
-GitHub URL (of this assignment): https://github.com/cp1404-students/a1-movies2see-ZweNada/tree/main
+GitHub URL (of this assignment): https://github.com/zwenada/cp1404practices/tree/master/assignment
 Remember to NEVER make this assignment repo public
 """
 MENU = """
